@@ -1,0 +1,5 @@
+a = (input())
+b = int(str(a)[0])
+c = int(str(a)[1])
+d = int(str(a)[2])
+print(b + c + d)
